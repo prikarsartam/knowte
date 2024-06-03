@@ -1,0 +1,15 @@
+body {
+    display: flex;
+  }
+  
+  #panel {
+    width: 200px;
+    padding: 10px;
+    border-right: 1px solid #ccc;
+  }
+  
+  #mynetwork {
+    flex: 1;
+    height: 100vh;
+  }
+  
