@@ -1,0 +1,8 @@
+CONTAINER ID   IMAGE               COMMAND                  CREATED             STATUS                         PORTS                                       NAMES
+363edd11aa9f   my_notetaking_app   "uvicorn backend.mai…"   11 seconds ago      Exited (1) 9 seconds ago                                                   laughing_einstein
+1166335d76a5   a99cd961c43f        "uvicorn backend.mai…"   5 minutes ago       Exited (1) 5 minutes ago                                                   magical_shirley
+34bc9124117b   d8b4e3a0f561        "uvicorn backend.mai…"   25 minutes ago      Exited (1) 25 minutes ago                                                  keen_ramanujan
+e0db92b55290   d8b4e3a0f561        "uvicorn backend.mai…"   27 minutes ago      Exited (1) 27 minutes ago                                                  thirsty_sanderson
+3237708d1f1d   c223fb01e829        "uvicorn backend.mai…"   29 minutes ago      Created                        0.0.0.0:8000->8000/tcp, :::8000->8000/tcp   elastic_fermat
+518ac9a12dfb   hello-world         "/hello"                 About an hour ago   Exited (0) About an hour ago                                               magical_booth
+1dc194f3b050   hello-world         "/hello"                 2 hours ago         Exited (0) 2 hours ago                                                     dazzling_fermi
